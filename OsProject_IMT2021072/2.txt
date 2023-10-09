@@ -1,0 +1,5 @@
+Receipt Number- 2
+Customer Email: ram
+Customer Name: Ram
+1. Product Name: ice, Price: 14, Quantity: 42, Cost: 588
+Total Bill- 588

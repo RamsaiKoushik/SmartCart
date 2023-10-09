@@ -1,0 +1,8 @@
+ProductId:1 , Product Name: ice , Product Price:50 , Product Quantity:0
+ProductId:2 , Product Name: stand , Product Price:9 , Product Quantity:1
+ProductId:3 , Product Name: Bat , Product Price:7860 , Product Quantity:1
+ProductId:4 , Product Name: Stumps , Product Price:8 , Product Quantity:1
+ProductId:5 , Product Name: agarbathi , Product Price:14 , Product Quantity:6
+ProductId:6 , Product Name: spects , Product Price:1008 , Product Quantity:5
+ProductId:7 , Product Name: pen , Product Price:10 , Product Quantity:65
+ProductId:8 , Product Name: pencil , Product Price:4 , Product Quantity:100

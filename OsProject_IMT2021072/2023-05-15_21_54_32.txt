@@ -1,0 +1,8 @@
+List of products after the latest update by admin:
+ProductId:1 , Product Name: ice , Product Price:14 , Product Quantity:72
+ProductId:3 , Product Name: Bat , Product Price:100000 , Product Quantity:9
+ProductId:4 , Product Name: Iphone , Product Price:700000 , Product Quantity:12
+ProductId:5 , Product Name: IceCream , Product Price:120 , Product Quantity:4
+ProductId:6 , Product Name: spects , Product Price:1008 , Product Quantity:1
+ProductId:7 , Product Name: pen , Product Price:25 , Product Quantity:50
+ProductId:8 , Product Name: pencil , Product Price:4 , Product Quantity:100
